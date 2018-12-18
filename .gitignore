@@ -6,3 +6,6 @@ crate/pkg
 crate/target
 crate/wasm-pack.log
 crate/Cargo.lock
+
+*.swp
+*.swo
