@@ -28,6 +28,8 @@ wee_alloc = { version = "0.4.2", optional = true }
 
 js-sys = "0.3.6"
 
+cgmath = "0.16.1"
+
 [dependencies.web-sys]
 version = "0.3.6"
 features = [
@@ -42,6 +44,7 @@ features = [
   "WebGlBuffer",
   "WebGlVertexArrayObject",
   "WebGlUniformLocation",
+  "Performance",
 ]
 
 [features]
